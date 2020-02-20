@@ -1,0 +1,16 @@
+.profile-container {
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+}
+button {
+  background-color: #505355;
+  width: 100%;
+  padding: 10px;
+}
+
+a{
+    text-decoration: none;
+}

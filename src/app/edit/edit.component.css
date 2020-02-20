@@ -1,0 +1,48 @@
+.wrapper {
+  display: flex;
+}
+
+.form-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 400px;
+  margin: auto;
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px 0px rgba(204, 204, 204, 1);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+label {
+  color: #1ecefd;
+}
+
+button {
+  background-color: #505355;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: #5becd8;
+}
+
+input {
+  padding: 14px;
+  border-radius: 15px;
+  margin: 5px;
+}
+a {
+  text-decoration: none;
+}
